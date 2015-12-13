@@ -1,17 +1,9 @@
-Hackathon Hackers: all the subgroups
-====================================
+Hacker Groups
+=============
 
-New subgroups are also listed; these can be hard to find because they're not in the sidebar. If any of these interest you please join, once they reach 100 members they can be official subgroups.
+The definitive resource for hacker and hackathon groups on Facebook and beyond.
 
-Official subgroups are listed in **bold**
-
-Feel free to add to the list: clone, edit, then send a pull request.
-
-RTFM: http://hh.gd/etiquette
-
-main()
-------
-Only post job/internship ads in **HH Job Listings** (http://hh.gd/jobs)
+**HH Job Listings** (http://hh.gd/jobs)
 
 Giveaways should be posted in **HH Free Stuff** (http://hh.gd/freestuff).
 
