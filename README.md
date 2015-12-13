@@ -130,7 +130,7 @@ HH Find Teammates: https://www.facebook.com/groups/454867721317036/
 
 Joke/Parody
 ------------
-**HH Circletwerk**: http://hh.gd/circle
+**HH Cirque du Twerque**: https://www.facebook.com/groups/HHCirqueDuTwerque/
 
 **HH Snackathon Snackers**: http://hh.gd/snackers
 
