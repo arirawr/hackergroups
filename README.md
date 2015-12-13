@@ -161,13 +161,3 @@ Related
 **Latino Hackers**: http://hh.gd/latino
 
 **Upcoming Hackathons**: http://hh.gd/events
-
-Moderation
-----------
-http://hh.gd/etiquette
-
-If you have a question or concern about a person or post in HH, please send a private message to the HH moderators: http://hh.gd/mods
-
-Coda
-----
-Here’s to the hackers. The tinkerers. The makers. The ones who create things quickly. While some may see them as sleep-deprived loons, we see dedication. Because the students who are crazy enough to think they can make something awesome in just 36 hours, are the ones who do.
