@@ -55,7 +55,7 @@ Giveaways should be posted in **HH Free Stuff** (http://hh.gd/freestuff).
 
 Regional
 --------
-**HH Canada Eh?**: http://hh.gd/canada
+**Canadian Hackers**: http://hh.gd/canada
 
 **HH California**: http://hh.gd/cali
 
@@ -83,7 +83,7 @@ HH Perl: https://www.facebook.com/groups/hhperl/
 
 **HH Python**: http://hh.gd/python
 
-**HH Ruby**: http://hh.gd/ruby
+**Ruby**: http://hh.gd/ruby
 
 HH Rust: https://www.facebook.com/groups/hhrust/
 
@@ -112,7 +112,7 @@ HH Networking: https://www.facebook.com/groups/hhnetworking/
 
 HH Semantic Web https://www.facebook.com/groups/hhsemantic/
 
-HH InfoSec: https://www.facebook.com/groups/773334272725281/
+Information Security: https://www.facebook.com/groups/773334272725281/
 
 Misc
 -----
