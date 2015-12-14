@@ -110,7 +110,7 @@ HH Networking: https://www.facebook.com/groups/hhnetworking/
 
 HH Semantic Web https://www.facebook.com/groups/hhsemantic/
 
-HH InfoSec: https://www.facebook.com/groups/773334272725281/
+Information Security: https://www.facebook.com/groups/773334272725281/
 
 Misc
 -----
