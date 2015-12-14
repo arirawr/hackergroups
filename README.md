@@ -39,6 +39,8 @@ Giveaways should be posted in **HH Free Stuff** (http://hh.gd/freestuff).
 
 **HH Product Launch**: http://hh.gd/launch
 
+**P2P**: https://www.facebook.com/groups/474047392772398
+
 **HH Skillshare**: http://hh.gd/skillshare
 
 **HH Share Your Projects**: http://hh.gd/shareyourproject
