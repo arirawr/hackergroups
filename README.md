@@ -7,11 +7,19 @@ The definitive resource for hacker and hackathon groups on Facebook and beyond.
 
 Giveaways should be posted in **HH Free Stuff** (http://hh.gd/freestuff).
 
+**Data Hackers**: https://www.facebook.com/groups/541448455986568/
+
+**Freelance Hackers**: https://www.facebook.com/groups/791749250889370/
+
+**Hack - Music**: https://www.facebook.com/groups/1562067487360179/
+
+**Hacker Homework**: https://www.facebook.com/groups/HHhomework/
+
+**Hackers - Book Club**: https://www.facebook.com/groups/1283193408435026/
+
 **HH Welcome**: https://www.facebook.com/groups/hhwelcome/
 
 **HH Blog Posts**: http://hh.gd/blogposts
-
-**HH Book Club**: http://hh.gd/bookclub
 
 **HH Code Reviews**: http://hh.gd/codereview
 
@@ -21,11 +29,7 @@ Giveaways should be posted in **HH Free Stuff** (http://hh.gd/freestuff).
 
 **HH Constructive Debates**: http://hh.gd/debate
 
-**HH Data Hackers**: http://hh.gd/data
-
 **HH Design**: http://hh.gd/design
-
-**HH Freelance**: http://hh.gd/freelance
 
 **HH Free Stuff**: http://hh.gd/freestuff
 
@@ -55,19 +59,21 @@ Giveaways should be posted in **HH Free Stuff** (http://hh.gd/freestuff).
 
 Regional
 --------
-**Canadian Hackers**: http://hh.gd/canada
+**Cali Hackers**: https://www.facebook.com/groups/274867312718471/
 
-**HH California**: http://hh.gd/cali
+**Canadian Hackers**: http://hh.gd/canada
 
 **HH European Union**: http://hh.gd/europe
 
-**HH Midwest**: http://hh.gd/midwest
+**HH NYC**: https://www.facebook.com/groups/392783994231221/
 
 **HH Seattle**: http://hh.gd/seattle
 
+**Midwest Hackers**: https://www.facebook.com/groups/288341158015791/
+
 Language Specific
 -------------------
-HH λ: (functional programming) https://www.facebook.com/groups/hhlambda/
+λλλ: Functional Hackers https://www.facebook.com/groups/hhlambda/
 
 HH Lisp: https://www.facebook.com/groups/760851353987620/
 
@@ -81,9 +87,9 @@ HH C: https://www.facebook.com/groups/hhcprog/
 
 HH Perl: https://www.facebook.com/groups/hhperl/
 
-**HH Python**: http://hh.gd/python
+**Python Hackers**: https://www.facebook.com/groups/721736427908410/
 
-**Ruby**: http://hh.gd/ruby
+**Ruby Hackers**: https://www.facebook.com/groups/HHRuby/
 
 HH Rust: https://www.facebook.com/groups/hhrust/
 
@@ -134,19 +140,19 @@ Joke/Parody
 ------------
 **Cirque du Twerque**: https://www.facebook.com/groups/HHCirqueDuTwerque/
 
+**Hacker Problems**: https://www.facebook.com/groups/291381824396182/
+
 **HH Snackathon Snackers**: http://hh.gd/snackers
 
 **HH Stackathon Stackers**: http://hh.gd/stackers
-
-**HH Hacker Problems**: http://http://hh.gd/problems
-
-**Real Singles of HHCT**: http://hh.gd/singles
 
 HH Jokes: https://www.facebook.com/groups/hhjokes/
 
 HH: What Are You Twerking On?: https://www.facebook.com/groups/hhtwerk/
 
 HH Bæsed Andy: https://www.facebook.com/groups/346246492209784/
+
+**Sovereign State of Real Singles**: https://www.facebook.com/groups/realsingleshhct/
 
 Wankathon Wankers: https://www.facebook.com/groups/WankWank/
 
