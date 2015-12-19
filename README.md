@@ -31,6 +31,8 @@ Giveaways should be posted in **HH Free Stuff** (http://hh.gd/freestuff).
 
 **HH Hardware**: http://hh.gd/hardware
 
+**HH Hebrews**: https://www.facebook.com/groups/hhhebrews/
+
 **HH Housing**: http://hh.gd/housing
 
 **HH Interview Prep**: http://hh.gd/interviewprep
