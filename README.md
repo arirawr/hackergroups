@@ -73,6 +73,8 @@ Regional
 
 **Midwest Hackers**: https://www.facebook.com/groups/288341158015791/
 
+**HH Brazil** https://www.facebook.com/groups/hhbrasil/
+
 Language Specific
 -------------------
 λλλ: Functional Hackers https://www.facebook.com/groups/hhlambda/
